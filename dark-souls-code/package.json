@@ -1,0 +1,41 @@
+{
+  "name": "dark-souls-code",
+  "displayName": "Dark Souls Notification",
+  "description": "Dark Souls themed notification for file saves and git actions.",
+  "version": "1.0.0",
+  "engines": {
+    "vscode": "^1.80.0"
+  },
+  "activationEvents": [
+    "onStartupFinished"
+  ],
+  "main": "./out/extension.js",
+  "contributes": {
+    "configuration": {
+      "title": "Dark Souls Code",
+      "properties": {
+        "darkSouls.enableSound": {
+          "type": "boolean",
+          "default": true,
+          "description": "Play the sound effect when triggering notifications."
+        }
+      }
+    }
+  },
+  "scripts": {
+    "compile": "tsc -p ./",
+    "watch": "tsc -watch -p ./"
+  },
+  "devDependencies": {
+    "@types/vscode": "^1.80.0",
+    "@types/node": "^20.0.0",
+    "typescript": "^5.1.0"
+  },
+  "dependencies": {
+    "undici-types": "^6.21.0"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
