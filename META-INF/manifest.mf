@@ -1,0 +1,52 @@
+Manifest-Version: 1.0
+
+Name: sound.mp3
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: ueejHRsmRCcTRjPAr+/LyWU3W2g=
+SHA256-Digest: mJkrRGKzB8Xx4g7jE/GLpHGz3s51VWcXVJ5LWu7kua4=
+
+Name: style.css
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: yIzdbZjJzzKxz+bt+TaT4y9+mMM=
+SHA256-Digest: q9BBA47lj75pjQ5bXodWpm/ThCajXFurIZc5cr5Rh1Y=
+
+Name: icon-48.png
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: 4sxyas9aA7U2Lwa4vZWXSQrLIdM=
+SHA256-Digest: ykF+VWrvXXF7Q8DwLcURyjtDG/ntSCwNSQZEryEbxHM=
+
+Name: OptimusPrinceps.ttf
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: UsdUsphpsbb7Rcx4LGQQP8d91ec=
+SHA256-Digest: BnKO6WntX15SdH8We+mKYTA9/75Jc6g5ccsYqbAC1do=
+
+Name: script.js
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: Cq2zqs81JE50CUPVxWkhl6rcYqc=
+SHA256-Digest: XnzgJpJhedSiMO5Bq6riLCC6ICMepAU6tWQv+uXSkpE=
+
+Name: manifest.json
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: pnmC116c/iCRtS3ovcxIBmwqwI0=
+SHA256-Digest: R/wb85faIBmZ6s1xP3HoSfz2G6qXoj1x/ZRtz63kMZ0=
+
+Name: background.js
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: mkihtS02h7n3hjQGu+vPZE/Eia0=
+SHA256-Digest: PGVd7LOqofPP25b+WmkBLtfj5RJUk5Twn2qDABQtlDI=
+
+Name: icon-96.png
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: HFbYWN3wdHZdJmaxPp7xz83erR8=
+SHA256-Digest: 4OLpPYBMq3CFOyRtnw+JKv63+GppugEwBRpLKRh8Vys=
+
+Name: META-INF/cose.manifest
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: k2LxHxuJ8HEiVoTKT9q62Xmy3dA=
+SHA256-Digest: NYm9ItYa1Mw8SVz84LHZbpj2wuyS88/wYlSGs66i4r0=
+
+Name: META-INF/cose.sig
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: 08E7M6aw6oDSsKJExjM+pbhkafU=
+SHA256-Digest: 8R/npA4QrJNGRti33BudFQz5H32btCPGmzSAyRqth3U=
+
